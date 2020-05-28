@@ -1,7 +1,8 @@
 ﻿# 🚀 Desafio 02: Conceitos do Node.js
 Feito por: [Igor Gois](https://github.com/igorgoiis).
+
 ###	Sobre o desafio
-Nesse desafio criei uma aplicação para armazenar repositórios do portfólio que permite a criação, listagem atualização e remoção dos repositórios,e além disso permite que os repositórios possam receber "likes".
+Neste desafio criei uma aplicação para armazenar repositórios do portfólio que permite a criação, listagem atualização e remoção dos repositórios,e além disso permite que os repositórios possam receber "likes".
 
 **Repositories [/repositories]**
 - Para cadastrar um repositório **[POST]**
@@ -107,7 +108,7 @@ Nesse desafio criei uma aplicação para armazenar repositórios do portfólio q
 
 	  git clone https://github.com/igorgoiis/bootcamp-desafio-01.git
 
-- **Entre na pasta:**
+- **Acesse a pasta:**
 
 	  cd bootcamp-desafio-01
 
