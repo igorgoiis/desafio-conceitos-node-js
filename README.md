@@ -105,7 +105,7 @@ Nesse desafio criei uma aplicação para armazenar repositórios do portfólio q
 ## 🏁 Instalação
 - **Clone o repositório:**
 
-	  git clone https://github.com/igorgoiis/bootcamp-desafio-01.git
+	  git clone https://github.com/igorgoiis/desafio-conceitos-node-js.git
 
 - **Entre na pasta:**
 
