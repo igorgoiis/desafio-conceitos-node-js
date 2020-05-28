@@ -1,7 +1,7 @@
 # 🚀 Challenge 02: Node.js concepts
 Made by: [Igor Gois](https://github.com/igorgoiis).
 
-[Documentation in Portuguese.](https://github.com/igorgoiis/desafio-conceitos-node-js/blob/master/README.md)
+[Documentation in Portuguese.](https://github.com/igorgoiis/desafio-conceitos-node-js/blob/master/README.ptbr.md)
 
 ###	About the challenge
 
